@@ -13,7 +13,7 @@ public class Variables {
 		
 		System.out.printf("%c=%d(%#X)%n", ch, code, code);
 		
-		char hch = '가';
+		char hch = 'a';
 		System.out.printf("%c=%d(%#X)%n", hch, (int)hch, (int)hch);
 		
 		System.out.println('\'');
